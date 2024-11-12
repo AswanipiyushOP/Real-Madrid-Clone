@@ -1,0 +1,387 @@
+*{
+    margin:0;
+}
+.header
+{
+    height:100px;
+}
+.sub_header
+{
+    background-color:snow;
+    background:url('../images/bg-sub-header.png');
+    background-repeat: no-repeat;
+    background-position:right;
+    background-size: auto;
+}
+.sub_h2
+{
+    font-size:40px;
+    color: #0F2145;
+    font-weight: bolder;
+    padding-top: 50px;
+}
+
+.sub_bott
+{
+    border:solid;
+    color: black;
+    height:2px;
+}
+
+.gk_h3
+{
+    font-weight: bolder;
+    color: #0F2145;
+}
+
+.mod_h4
+{
+    text-align: center;
+    line-height:300px ;
+    color: dodgerblue;
+}
+
+.mod_text
+{
+    font-size: smaller;
+    font-weight: bolder;
+}
+
+.logo
+{
+    height:80px;
+}
+
+.nav_color
+{
+    color:#4169E1;
+}
+
+red
+{
+    font-size: larger;
+}
+
+red:hover
+{
+    color:#0000CD
+}
+
+gray
+{
+    color:lightgray;
+}
+
+
+blue
+{
+    color:#4169E1;
+}
+
+dot
+{
+    padding-bottom:20px ;
+}
+
+.fa-facebook:hover {
+    color: #4169E1;
+    transition: ease-in-out 0.2s;
+    cursor: pointer;
+}
+
+.fa-instagram:hover {
+    color: #4169E1;
+    transition: ease-in-out 0.2s;
+    cursor: pointer;
+}
+
+.fa-x-twitter:hover {
+    color: #4169E1;
+    transition: ease-in-out 0.2s;
+    cursor: pointer;
+}
+
+.fa-youtube:hover {
+    color: #4169E1;
+    transition: ease-in-out 0.2s;
+    cursor: pointer;
+}
+
+.fa-twitch:hover {
+    color: #4169E1;
+    transition: ease-in-out 0.2s;
+    cursor: pointer;
+}
+
+.fa-snapchat-ghost:hover {
+    color: #4169E1;
+    transition: ease-in-out 0.2s;
+    cursor: pointer;
+}
+
+.fa-tiktok:hover {
+    color: #4169E1;
+    transition: ease-in-out 0.2s;
+    cursor: pointer;
+}
+
+
+.fix {
+    position: relative;
+    z-index: 10;
+}
+
+/*
+.padd
+{
+    padding-top: 160px;
+    color:#0f2145 ;
+    
+}
+*/
+.card-body
+{
+    box-sizing: border-box;
+}
+
+.padd:hover
+{
+    color:#4169E1;
+    cursor: pointer;
+}
+
+.card-title:hover
+{
+    cursor: pointer;
+}
+
+.im
+{
+    border-radius: 20px;
+}
+
+.ho
+{
+    color:#0f2145 ;
+    font-weight: bolder;
+}
+
+.ho:hover
+{
+    color:#4169E1;
+    cursor: pointer;
+}
+
+.f
+{
+    font-size: larger;
+}
+
+.text-hover
+{
+    color:#2115ab; ;
+}
+
+.text-hover:hover
+{
+    color:#4169E1;
+    cursor: pointer;
+}
+
+.img-hover{
+    overflow: hidden;
+    cursor: pointer;
+}
+.img-hover img {
+    transition: ease-in-out 3s;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.img-hover:hover img {
+    transform: scale(1.2);
+    transition: ease-in-out 3s;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.imgs-hover{
+    overflow: hidden;
+    cursor: pointer;
+}
+.imgs-hover img {
+    transition: ease-in-out 2s;
+}
+.imgs-hover:hover img {
+    transform: scale(1.1);
+    transition: ease-in-out 4s;
+}
+
+.imges-hover{
+    overflow: hidden;
+    cursor: pointer;
+    transition: ease-in-out .3s;
+}
+
+.imges-hover:hover
+{
+    transform: translateY(-10px);
+    transition: ease-in-out .5s;
+    box-shadow: 20px 20px 80px -44px #000;
+}
+
+.imges-hover img {
+    transition: ease-in-out 2s;
+}
+.imges-hover:hover img {
+    transform: scale(1.2);
+    transition: ease-in-out 2s;
+}
+
+
+.icon {
+   font-size: 30px;
+   margin-left: 15px;
+}
+/*#0f2145*/
+
+mod-text
+{
+    color:#3e31fa;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+sec-text
+{
+    color:#0F2145;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.mod-bg
+{
+    background: radial-gradient(100rem 86.91% at 50% 27.96%, #f2f4fe 0%, #edeffc 11%, #e1e2f9 19.35%, #cccdf4 28.91%, #7957f0 54.8%, #3e31fa 68.56%, #261bcf 86.21%, #112078 100%);
+    border-radius: 4px;
+}
+
+.card-body-bg
+{
+    background:azure;
+    overflow: hidden;
+    z-index: 1;
+    border-radius:4px;
+}
+
+.card-border
+{
+    border-radius: 20px;
+}
+
+.card-body_text
+{
+    color:dodgerblue;
+}
+
+.icon-card
+{
+    color: #0F2145;
+}
+
+.bg_body_container{
+	background: url(../images/solid-BG.jpg);
+    position:relative;
+}
+
+.header-top-bg
+{
+    background: url(../images/Bernabeu.png);
+    height: 390px;
+    position: relative;
+    background-size: cover;
+    
+}
+
+.mt-10
+{
+    margin-top:100px;
+}
+
+
+.h-10
+{
+    height:50px;
+    border-radius: 15px;
+    color:#3e31fa;
+    border: 0;
+}
+
+.h-10:hover
+{
+    color:#2115ab;
+    box-shadow:0 10px 30px -6px #a7a3da;
+    border: 0;
+}
+
+.b-0
+{
+    border: 0;   
+    background: none; 
+    background-size: cover;
+}
+
+.px-7
+{
+    padding-left: 70px;
+}
+/* background: radial-gradient(100rem 86.91% at 50% 27.96%, #f2f4fe 0%, #edeffc 11%, #e1e2f9 19.35%, #cccdf4 28.91%, #7957f0 54.8%, #3e31fa 68.56%, #261bcf 86.21%, #112078 100%); */
+.vi
+{
+    font-size:40px;
+     color: #0F2145;
+      font-weight: bolder;
+     padding-top: 50px;
+}
+
+.vi-b
+{
+    border-radius: 20px;
+    background:none
+}
+
+/* position: relative;
+    z-index: 10; 
+    #7b7b7b*/
+
+.h-5
+{
+    height: 300px;
+}
+
+.history-logo
+{
+    padding-left: 450px;
+}
+
+.login-hover:hover
+{
+    box-shadow:0 10px 30px -6px #a7a3da;
+}
+
+.margint
+{
+    margin-top: 60px;
+}
+
+.foot_text
+{
+    font-size:smaller;
+    color: #5E6A83;
+    cursor: pointer;
+}
+
+.register-form:hover {
+   
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+      
+  }
+  
